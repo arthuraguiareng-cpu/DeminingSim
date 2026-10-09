@@ -54,6 +54,6 @@ All images below are synthetic renders, downscaled and watermarked.
 
 The generator, code, assets, an offline evaluation kit for mine-action organisations and the full technical report are **available on request** for research collaboration, academic review or partnerships with NGOs.
 
-Contact: arthuraguiar.eng@gmail.com · [linkedin.com/in/arthur-c-aguiar-processoseprojetos](https://www.linkedin.com/in/arthur-c-aguiar-processoseprojetos/)
+Contact: arthuraguiar.eng@gmail.com · [linkedin.com/in/arthur-da-costa-aguiar](https://www.linkedin.com/in/arthur-da-costa-aguiar/)
 
 © 2026 Arthur da Costa Aguiar. All rights reserved, including the images. No licence is granted to reuse the material in this repository without written permission.
