@@ -5,6 +5,8 @@
 Arthur da Costa Aguiar, M.Sc. · Klaus, Austria · arthuraguiar.eng@gmail.com
 Independent humanitarian research project · 2026
 
+![Synthetic drone scene over steppe](01_drone_estepe.jpg)
+
 ---
 
 ## What it is
@@ -25,6 +27,22 @@ Evaluated on three public real-world datasets from different countries and senso
 
 **Scale of the evaluation:** ~23,000 synthetic images · 8 experiments · ~160 detector trainings · 3 seeds per data point · paired statistical comparison with confidence intervals.
 
+## Synthetic scenes
+
+All images below are synthetic renders, downscaled and watermarked.
+
+**Exact labels come for free.** Every object in a generated scene is labelled at the pixel level, including partly hidden ones. Left: render. Right: mines (orange, boxed) and look-alike clutter such as cans and scrap (blue).
+
+![Render and exact label side by side](04_rotulo.jpg)
+
+**Many terrains and seasons.** Snow, steppe, dry field with branches and grassland.
+
+![Four biomes: snow, steppe, dry field, grassland](03_biomas.jpg)
+
+**Drone view with distractors.** Small objects in cratered grassland, mixed with look-alike debris.
+
+![Synthetic drone scene over grassland with craters and debris](02_drone_gramado.jpg)
+
 ## Scope and ethics
 
 - Strictly humanitarian: the work supports detection and clearance, nothing else.
@@ -37,4 +55,4 @@ The generator, code, assets and full technical report (97 pages) are **available
 
 Contact: arthuraguiar.eng@gmail.com · [linkedin.com/in/arthur-c-aguiar-processoseprojetos](https://www.linkedin.com/in/arthur-c-aguiar-processoseprojetos/)
 
-© 2026 Arthur da Costa Aguiar. All rights reserved. No licence is granted to reuse the material in this repository without written permission.
+© 2026 Arthur da Costa Aguiar. All rights reserved, including the images. No licence is granted to reuse the material in this repository without written permission.
