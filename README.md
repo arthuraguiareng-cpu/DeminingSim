@@ -21,11 +21,12 @@ Evaluated on three public real-world datasets from different countries and senso
 
 | Result | Value |
 | --- | --- |
-| Detector trained on synthetic data only, tested on real drone imagery | **mAP50 0.67** |
+| Modern detector trained on synthetic data only, tested on real drone imagery | **mAP50 0.88** |
+| Synthetic data combined with real photos, hardest class (small metal anti-personnel mines) | **+8 points** |
 | Value of synthetic pre-training when only 5–25% of real photos are available | **worth 1.3–2.3× more real data** |
 | Improvement from one simulation design choice, synthetic-only, out-of-domain | **0.26 → 0.51 mAP50** |
 
-**Scale of the evaluation:** ~23,000 synthetic images · 8 experiments · ~160 detector trainings · 3 seeds per data point · paired statistical comparison with confidence intervals.
+**Scale of the evaluation:** ~23,000 synthetic images · 10 experiments · ~180 detector trainings · 3 seeds per data point · paired statistical comparison with confidence intervals.
 
 ## Synthetic scenes
 
@@ -51,7 +52,7 @@ All images below are synthetic renders, downscaled and watermarked.
 
 ## Availability
 
-The generator, code, assets and full technical report (97 pages) are **available on request** for research collaboration, academic review or partnerships with mine-action organisations.
+The generator, code, assets, an offline evaluation kit for mine-action organisations and the full technical report are **available on request** for research collaboration, academic review or partnerships with NGOs.
 
 Contact: arthuraguiar.eng@gmail.com · [linkedin.com/in/arthur-c-aguiar-processoseprojetos](https://www.linkedin.com/in/arthur-c-aguiar-processoseprojetos/)
 
