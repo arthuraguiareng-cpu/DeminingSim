@@ -21,12 +21,12 @@ Evaluated on three public real-world datasets from different countries and senso
 
 | Result | Value |
 | --- | --- |
-| Modern detector trained on synthetic data only, tested on real drone imagery | **mAP50 0.88** |
+| Modern detector trained on synthetic data only, tested on real drone imagery | **mAP50 0.89** |
 | Synthetic data combined with real photos, hardest class (small metal anti-personnel mines) | **+8 points** |
 | Value of synthetic pre-training when only 5–25% of real photos are available | **worth 1.3–2.3× more real data** |
 | Improvement from one simulation design choice, synthetic-only, out-of-domain | **0.26 → 0.51 mAP50** |
 
-**Scale of the evaluation:** ~26,000 synthetic images · 12 experiments · ~190 detector trainings · 3 seeds per data point · paired statistical comparison with confidence intervals.
+**Scale of the evaluation:** ~30,000 synthetic images · 14 experiments · ~200 detector trainings · 3 seeds per data point · paired statistical comparison with confidence intervals.
 
 ## Synthetic scenes
 
